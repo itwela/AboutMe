@@ -1,7 +1,8 @@
 # AboutMe
 
 <p align="center">
-(https://user-images.githubusercontent.com/36617380/227790274-d02d4a12-08f9-44ab-b5c6-6ea66df73660.gif)
+![animation_200_lfpme9vg](https://user-images.githubusercontent.com/36617380/227790480-a0a4ab03-ce9b-4e00-b7ad-b2569eb507ba.gif)
+
 </p>
 
 
