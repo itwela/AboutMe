@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itwela&label=Profile%20views&color=0e75b6&style=flat" alt="itwela" /> </p>
 
+<p align='center>
 - 🔭 I’m currently working on [JobKompass](myjobkompass.com)
 
 - 🤝 I’m looking for help with **Internships**
@@ -10,6 +11,7 @@
 - 👨‍💻 All of my projects are available at [itwela.dev](itwela.dev)
 
 - 📫 How to reach me **iibomu@wgu.edu**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
