@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itwela&label=Profile%20views&color=0e75b6&style=flat" alt="itwela" /> </p>
 
-<p align='center>
+<p align="center">
 - 🔭 I’m currently working on [JobKompass](myjobkompass.com)
 
 - 🤝 I’m looking for help with **Internships**
