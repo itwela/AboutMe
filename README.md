@@ -5,11 +5,14 @@
 
 <p align="center">
 - 🔭 I’m currently working on [JobKompass](myjobkompass.com)
-
+</p>
+<p align="center">
 - 🤝 I’m looking for help with **Internships**
-
+</p>
+<p align="center">
 - 👨‍💻 All of my projects are available at [itwela.dev](itwela.dev)
-
+</p>
+<p align="center">
 - 📫 How to reach me **iibomu@wgu.edu**
 </p>
 
