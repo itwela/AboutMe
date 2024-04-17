@@ -16,10 +16,10 @@
 - 🔭 I’m currently working on <a href="https://myjobkompass.com">JobKompass</a>
 </p>
 <p style="text-align: center;">
-- 🤝 I’m looking for help with <strong>Internships</strong>
+- 🤝 I’m looking for <strong>Jobs and Internships</strong>
 </p>
 <p style="text-align: center;">
-- 👨‍💻 All of my projects are available at <a href="https://itwela.dev">itwela.dev</a>
+- 👨‍💻 My portfolio is available at <a href="https://itwela.dev">itwela.dev</a>
 </p>
 <p style="text-align: center;">
 - 📫 How to reach me <strong>iibomu@wgu.edu</strong>
