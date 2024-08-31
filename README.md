@@ -13,13 +13,16 @@
 <p style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=itwela&label=Profile%20views&color=0e75b6&style=flat" alt="itwela" /> </p>
 
 <p style="text-align: center;">
-- 🔭 I’m currently working on <a href="https://myjobkompass.com">JobKompass</a>
+- 🔭 I’m currently working on <a href="https://myjobkompass.com">Many Projects and trying to land a role in tech</a>
 </p>
 <p style="text-align: center;">
 - 🤝 I’m looking for <strong>Jobs and Internships</strong>
 </p>
 <p style="text-align: center;">
 - 👨‍💻 My portfolio is available at <a href="https://itwela.dev">itwela.dev</a>
+</p>
+<p style="text-align: center;">
+- 🏋️ Check out some more projects I;ve built with teams <a href="https://github.com/orgs/Team-S-I-R/repositories">here</a>
 </p>
 <p style="text-align: center;">
 - 📫 How to reach me <strong>iibomu@wgu.edu</strong>
