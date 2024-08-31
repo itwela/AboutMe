@@ -13,7 +13,7 @@
 <p style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=itwela&label=Profile%20views&color=0e75b6&style=flat" alt="itwela" /> </p>
 
 <p style="text-align: center;">
-- 🔭 I’m currently working on <a href="https://myjobkompass.com">Many Projects and trying to land a role in tech</a>
+- 🔭 I’m currently working on many projects and trying to land a role in tech
 </p>
 <p style="text-align: center;">
 - 🤝 I’m looking for <strong>Jobs and Internships</strong>
