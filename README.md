@@ -22,7 +22,7 @@
 - 👨‍💻 My portfolio is available at <a href="https://itwela.dev">itwela.dev</a>
 </p>
 <p style="text-align: center;">
-- 🏋️ Check out some more projects I;ve built with teams <a href="https://github.com/orgs/Team-S-I-R/repositories">here</a>
+- 🏋️ Check out some more projects I've built with teams <a href="https://github.com/orgs/Team-S-I-R/repositories">here</a>
 </p>
 <p style="text-align: center;">
 - 📫 How to reach me <strong>iibomu@wgu.edu</strong>
